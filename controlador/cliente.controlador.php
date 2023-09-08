@@ -1,5 +1,5 @@
 <?php
-require_once '../modelo/cliente.php';
+require_once '../modelo/cliente.php';//Requerimos modelo cliente.
 
 class clienteControlador{
     
